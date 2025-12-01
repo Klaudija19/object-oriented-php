@@ -26,6 +26,9 @@ class FirstPostAchievement extends Achievement
   class TalkativeAchievement extends Achievement 
   {
     public function qualifier(User $user)
+    {
+      // $user->comments()->count()>= 200;
+    }
     
   }
 
