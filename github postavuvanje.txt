@@ -1,9 +1,1 @@
-Za postavuvanje na proektot od object oriented php treba slednoto, proektot e na slednata pateka:
-cd "C:\Users\User\Desktop\object oriented php"
-komandi:
-git init
-git add .
-git commit -m"First commit"
-git remote add origin
-git branch -M main
-git push -u origin main
+
